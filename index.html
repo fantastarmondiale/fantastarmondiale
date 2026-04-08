@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FantaEuropeo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="tabs">
+        <button class="tablink unselected" onclick="openTab(event, 'teams')">Classifica</button>
+        <button class="tablink unselected" onclick="openTab(event, 'nazionali')">Nazionali</button>
+        <button class="tablink unselected" onclick="openTab(event, 'moltiplicatori')">Bonus/Malus</button>
+		<button class="tablink unselected" onclick="openTab(event, 'listone')">Listone</button>
+    </div>
+
+    <div id="teams" class="tabcontent">
+        <table id="teamsTable">
+            <tbody>
+                <!-- Dati caricati dinamicamente -->
+            </tbody>
+        </table>
+    </div>
+
+    <div id="nazionali" class="tabcontent">
+        <table id="nazionaliTable">
+            <tbody>
+                <!-- Dati caricati dinamicamente -->
+            </tbody>
+        </table>
+    </div>
+
+    <div id="moltiplicatori" class="tabcontent">
+        <table id="moltiplicatoriTable">
+            <tbody>
+                <!-- Dati caricati dinamicamente -->
+            </tbody>
+        </table>
+    </div>
+	
+	<div id="listone" class="tabcontent">
+        <table id="listoneTable">
+            <tbody>
+                <!-- Dati caricati dinamicamente -->
+            </tbody>
+        </table>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

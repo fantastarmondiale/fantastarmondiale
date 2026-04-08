@@ -1,0 +1,129 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.tabs {
+    overflow: hidden;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.tablink {
+    background-color: transparent !important;
+    border: none;
+    cursor: pointer;
+    padding: 10px 10px;
+    font-size: 17px;
+}
+
+.tablink:hover {
+    background: #caf0f8 !important;
+}
+
+.tablink:focus-visible {
+    outline: -webkit-focus-ring-color auto 0px;
+}
+.toggle{
+    width: 20px;
+}
+
+.flag{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.detailflag{
+    width: 30px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+.expander{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+table {
+    width: 100%;
+    min-width: 350px;
+    max-width: 500px;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table, th, td {
+    border: none;
+}
+
+th, td {
+    text-align: left;
+    vertical-align: middle !important;
+    border-bottom: 1px solid #ebebeb;
+    height: 30px;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+td button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.numeric {
+    text-align: right;
+}
+
+.detailTable {
+    width: 100%;
+    min-width: 350px;
+    max-width: 500px;
+    border-collapse: collapse;
+}
+
+.detailTable td {
+    padding: 4px;
+    height: 20px;
+}
+
+.detailTable tr:last-child td{
+    border-bottom: 0px !important;
+}
+
+tr.green{
+    color: #3f8f29;
+}
+
+tr.red{
+    color: #bf1029;
+}
+
+button.unselected{
+    color: #000000; 
+    border-bottom: 0px solid #FFFFFF;
+}
+
+button.selected{
+    color: #4682B4;
+    border-bottom: 2px solid #4682B4;
+}
+
+.detailTable {
+    font-size: 14px;
+}
+
+.odd{
+    background-color: #e6f7fe;
+}
+
+.even{
+    background-color: #fefce6;
+}
