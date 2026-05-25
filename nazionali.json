@@ -1,7 +1,7 @@
 [
   {
     "name": "ALGERIA",
-    "valore": 50,
+    "valore": 10,
     "flag": "icons8-algeria-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -35,7 +35,7 @@
   },
   {
     "name": "ARABIA SAUDITA",
-    "valore": 50,
+    "valore": 5,
     "flag": "icons8-arabia-saudita-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -103,7 +103,7 @@
   },
   {
     "name": "AUSTRALIA",
-    "valore": 50,
+    "valore": 10,
     "flag": "icons8-australia-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -137,7 +137,7 @@
   },
   {
     "name": "AUSTRIA",
-    "valore": 50,
+    "valore": 20,
     "flag": "icons8-austria-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -171,7 +171,7 @@
   },
   {
     "name": "BELGIO",
-    "valore": 50,
+    "valore": 30,
     "flag": "icons8-belgio-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -205,7 +205,7 @@
   },
   {
     "name": "BOSNIA ERZEGOVINA",
-    "valore": 50,
+    "valore": 10,
     "flag": "icons8-bosnia-ed-erzegovina-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -273,7 +273,7 @@
   },
   {
     "name": "CANADA",
-    "valore": 50,
+    "valore": 20,
     "flag": "icons8-canada-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -307,7 +307,7 @@
   },
   {
     "name": "CAPO VERDE",
-    "valore": 50,
+    "valore": 5,
     "flag": "icons8-cape-verde-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -341,7 +341,7 @@
   },
   {
     "name": "COLOMBIA",
-    "valore": 50,
+    "valore": 30,
     "flag": "icons8-colombia-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -375,7 +375,7 @@
   },
   {
     "name": "COREA DEL SUD",
-    "valore": 50,
+    "valore": 10,
     "flag": "icons8-corea-del-sud-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -409,7 +409,7 @@
   },
   {
     "name": "COSTA D'AVORIO",
-    "valore": 50,
+    "valore": 10,
     "flag": "icons8-costa-d-avorio-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -443,7 +443,7 @@
   },
   {
     "name": "CROAZIA",
-    "valore": 50,
+    "valore": 20,
     "flag": "icons8-croazia-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -477,7 +477,7 @@
   },
   {
     "name": "CURACAO",
-    "valore": 50,
+    "valore": 5,
     "flag": "icons8-curacao-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -511,7 +511,7 @@
   },
   {
     "name": "REPUBBLICA DEMOCRATICA DEL CONGO",
-    "valore": 50,
+    "valore": 5,
     "flag": "icons8-democratic-republic-of-the-congo-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -545,7 +545,7 @@
   },
   {
     "name": "ECUADOR",
-    "valore": 50,
+    "valore": 20,
     "flag": "icons8-ecuador-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -579,7 +579,7 @@
   },
   {
     "name": "EGITTO",
-    "valore": 50,
+    "valore": 10,
     "flag": "icons8-egitto-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -647,7 +647,7 @@
   },
   {
     "name": "GERMANIA",
-    "valore": 50,
+    "valore": 40,
     "flag": "icons8-germania-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -681,7 +681,7 @@
   },
   {
     "name": "GHANA",
-    "valore": 50,
+    "valore": 10,
     "flag": "icons8-ghana-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -715,7 +715,7 @@
   },
   {
     "name": "GIAPPONE",
-    "valore": 50,
+    "valore": 30,
     "flag": "icons8-giappone-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -749,7 +749,7 @@
   },
   {
     "name": "GIORDANIA",
-    "valore": 50,
+    "valore": 5,
     "flag": "icons8-giordania-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -817,7 +817,7 @@
   },
   {
     "name": "IRAN",
-    "valore": 50,
+    "valore": 5,
     "flag": "icons8-iran-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -851,7 +851,7 @@
   },
   {
     "name": "IRAQ",
-    "valore": 50,
+    "valore": 5,
     "flag": "icons8-iraq-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -885,7 +885,7 @@
   },
   {
     "name": "HAITI",
-    "valore": 50,
+    "valore": 5,
     "flag": "icons8-la-repubblica-di-haiti-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -919,7 +919,7 @@
   },
   {
     "name": "MAROCCO",
-    "valore": 50,
+    "valore": 30,
     "flag": "icons8-marocco-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -953,7 +953,7 @@
   },
   {
     "name": "MESSICO",
-    "valore": 50,
+    "valore": 30,
     "flag": "icons8-messico-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -987,7 +987,7 @@
   },
   {
     "name": "NORVEGIA",
-    "valore": 50,
+    "valore": 40,
     "flag": "icons8-norvegia-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -1021,7 +1021,7 @@
   },
   {
     "name": "NUOVA ZELANDA",
-    "valore": 50,
+    "valore": 5,
     "flag": "icons8-nuova-zelanda-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -1055,7 +1055,7 @@
   },
   {
     "name": "OLANDA",
-    "valore": 50,
+    "valore": 40,
     "flag": "icons8-paesi-bassi-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -1089,7 +1089,7 @@
   },
   {
     "name": "PANAMA",
-    "valore": 50,
+    "valore": 5,
     "flag": "icons8-panama-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -1123,7 +1123,7 @@
   },
   {
     "name": "PARAGUAY",
-    "valore": 50,
+    "valore": 20,
     "flag": "icons8-paraguay-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -1157,7 +1157,7 @@
   },
   {
     "name": "PORTOGALLO",
-    "valore": 50,
+    "valore": 40,
     "flag": "icons8-portogallo-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -1191,7 +1191,7 @@
   },
   {
     "name": "QATAR",
-    "valore": 50,
+    "valore": 5,
     "flag": "icons8-qatar-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -1225,7 +1225,7 @@
   },
   {
     "name": "REPUBBLICA CECA",
-    "valore": 50,
+    "valore": 10,
     "flag": "icons8-repubblica-ceca-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -1259,7 +1259,7 @@
   },
   {
     "name": "SCOZIA",
-    "valore": 50,
+    "valore": 20,
     "flag": "icons8-scozia-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -1293,7 +1293,7 @@
   },
   {
     "name": "SENEGAL",
-    "valore": 50,
+    "valore": 20,
     "flag": "icons8-senegal-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -1361,7 +1361,7 @@
   },
   {
     "name": "STATI UNITI",
-    "valore": 50,
+    "valore": 30,
     "flag": "icons8-stati-uniti-d-america-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -1395,7 +1395,7 @@
   },
   {
     "name": "SUD AFRICA",
-    "valore": 50,
+    "valore": 5,
     "flag": "icons8-sud-africa-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -1429,7 +1429,7 @@
   },
   {
     "name": "SVEZIA",
-    "valore": 50,
+    "valore": 20,
     "flag": "icons8-svezia-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -1463,7 +1463,7 @@
   },
   {
     "name": "SVIZZERA",
-    "valore": 50,
+    "valore": 20,
     "flag": "icons8-svizzera-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -1497,7 +1497,7 @@
   },
   {
     "name": "TUNISIA",
-    "valore": 50,
+    "valore": 10,
     "flag": "icons8-tunisia-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -1531,7 +1531,7 @@
   },
   {
     "name": "TURCHIA",
-    "valore": 50,
+    "valore": 20,
     "flag": "icons8-turchia-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -1565,7 +1565,7 @@
   },
   {
     "name": "URUGUAY",
-    "valore": 50,
+    "valore": 30,
     "flag": "icons8-uruguay-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
@@ -1599,7 +1599,7 @@
   },
   {
     "name": "UZBEKISTAN",
-    "valore": 50,
+    "valore": 5,
     "flag": "icons8-uzbekistan-30.png",
     "details": {
       "Vince Partita (nei 120 minuti)": 0,
