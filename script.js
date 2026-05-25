@@ -25,7 +25,7 @@ function loadListone(){
                 cellNazionale.innerHTML = nazionale.name;
                 cellValore.textContent = nazionale.valore;
                 cellValore.classList.add('numeric');
-                row.classList.add(nazionale.valore%20==0?'even':'odd');
+                row.classList.add(nazionale.valore==40 || nazionale.valore==20 || nazionale.valore==5?'even':'odd');
             });
         });
 }
