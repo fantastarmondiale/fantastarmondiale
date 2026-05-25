@@ -14,6 +14,10 @@ function loadListone(){
         .then(response => response.json())
         .then(data => {
             let table = document.getElementById('listoneTable').getElementsByTagName('tbody')[0];
+    
+    		// Ordina nazionali per punteggio
+    		data.sort((a, b) => b.valore - a.valore);
+			
             data.forEach(nazionale => {
                 let row = table.insertRow();
                 let cellBandiera = row.insertCell(0);
