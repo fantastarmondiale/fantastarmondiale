@@ -1,156 +1,121 @@
 [
   {
-    "player": "ROBBY",
-    "nazionale_1": "INGHILTERRA",
-    "nazionale_2": "SCOZIA",
-    "nazionale_3": "TURCHIA",
-    "nazionale_4": "QATAR"
-  },
-  {
-    "player": "LUCA",
-    "nazionale_1": "INGHILTERRA",
-    "nazionale_2": "PANAMA",
-    "nazionale_3": "TURCHIA",
-    "nazionale_4": "SENEGAL"
-  },
-  {
-    "player": "CIRO",
-    "nazionale_1": "PORTOGALLO",
-    "nazionale_2": "SPAGNA",
-    "nazionale_3": "GIORDANIA",
-    "nazionale_4": "SENEGAL"
-  },
-  {
-    "player": "STEFANINO",
-    "nazionale_1": "INGHILTERRA",
-    "nazionale_2": "CROAZIA",
-    "nazionale_3": "GIORDANIA",
-    "nazionale_4": "STATI UNITI"
-  },
-  {
-    "player": "ALESSANDRA",
-    "nazionale_1": "PORTOGALLO",
-    "nazionale_2": "SPAGNA",
-    "nazionale_3": "AUSTRIA",
-    "nazionale_4": "SENEGAL"
-  },
-  {
-    "player": "ROSALBA",
-    "nazionale_1": "INGHILTERRA",
-    "nazionale_2": "URUGUAY",
-    "nazionale_3": "TURCHIA",
-    "nazionale_4": "AUSTRIA"
-  },
-  {
-    "player": "MARCO",
-    "nazionale_1": "FRANCIA",
-    "nazionale_2": "SCOZIA",
-    "nazionale_3": "TURCHIA",
-    "nazionale_4": "SENEGAL"
-  },
-  {
     "player": "CARLO",
-    "nazionale_1": "FRANCIA",
-    "nazionale_2": "SCOZIA",
+    "nazionale_1": "GERMANIA",
+    "nazionale_2": "URUGUAY",
+    "nazionale_3": "CROAZIA",
+    "nazionale_4": "COREA DEL SUD"
+  },
+  {
+    "player": "ROBERTO",
+    "nazionale_1": "PORTOGALLO",
+    "nazionale_2": "BELGIO",
     "nazionale_3": "TURCHIA",
-    "nazionale_4": "AUSTRIA"
+    "nazionale_4": "COSTA D'AVORIO"
   },
   {
     "player": "FRANCESCO",
-    "nazionale_1": "GERMANIA",
-    "nazionale_2": "SCOZIA",
+    "nazionale_1": "SPAGNA",
+    "nazionale_2": "MAROCCO",
+    "nazionale_3": "EGITTO",
+    "nazionale_4": "BOSNIA ERZEGOVINA"
+  },
+  {
+    "player": "ANGELA",
+    "nazionale_1": "INGHILTERRA",
+    "nazionale_2": "MAROCCO",
+    "nazionale_3": "COSTA D'AVORIO",
+    "nazionale_4": "UZBEKISTAN"
+  },
+  {
+    "player": "ALESSANDRO",
+    "nazionale_1": "FRANCIA",
+    "nazionale_2": "TURCHIA",
+    "nazionale_3": "CROAZIA",
+    "nazionale_4": "BOSNIA ERZEGOVINA"
+  },
+  {
+    "player": "ANDREA",
+    "nazionale_1": "FRANCIA",
+    "nazionale_2": "CROAZIA",
     "nazionale_3": "TURCHIA",
-    "nazionale_4": "QATAR"
+    "nazionale_4": "COREA DEL SUD"
+  },
+  {
+    "player": "MARCO",
+    "nazionale_1": "SPAGNA",
+    "nazionale_2": "MAROCCO",
+    "nazionale_3": "COSTA D'AVORIO",
+    "nazionale_4": "COREA DEL SUD"
   },
   {
     "player": "MICHELE",
     "nazionale_1": "FRANCIA",
-    "nazionale_2": "SCOZIA",
-    "nazionale_3": "TURCHIA",
-    "nazionale_4": "QATAR"
-  },
-  {
-    "player": "GIORGIO",
-    "nazionale_1": "IRAN",
     "nazionale_2": "PORTOGALLO",
-    "nazionale_3": "QATAR",
-    "nazionale_4": "SENEGAL"
-  },
-  {
-    "player": "ALESSANDRO",
-    "nazionale_1": "INGHILTERRA",
-    "nazionale_2": "TURCHIA",
-    "nazionale_3": "REPUBBLICA CECA",
-    "nazionale_4": "GIORDANIA"
-  },
-  {
-    "player": "SERENA",
-    "nazionale_1": "FRANCIA",
-    "nazionale_2": "CROAZIA",
-    "nazionale_3": "AUSTRIA",
-    "nazionale_4": "ARABIA SAUDITA"
-  },
-  {
-    "player": "EDOARDO",
-    "nazionale_1": "IRAN",
-    "nazionale_2": "CROAZIA",
-    "nazionale_3": "SCOZIA",
-    "nazionale_4": "STATI UNITI"
-  },
-  {
-    "player": "ANDREA",
-    "nazionale_1": "IRAN",
-    "nazionale_2": "PORTOGALLO",
-    "nazionale_3": "AUSTRIA",
-    "nazionale_4": "QATAR"
-  },
-  {
-    "player": "MORENO",
-    "nazionale_1": "SPAGNA",
-    "nazionale_2": "ECUADOR",
-    "nazionale_3": "PANAMA",
-    "nazionale_4": "SENEGAL"
-  },
-  {
-    "player": "STEFANO",
-    "nazionale_1": "PORTOGALLO",
-    "nazionale_2": "CROAZIA",
-    "nazionale_3": "UZBEKISTAN",
-    "nazionale_4": "AUSTRIA"
+    "nazionale_3": "IRAN",
+    "nazionale_4": "REPUBBLICA DEMOCRATICA DEL CONGO"
   },
   {
     "player": "EMANUELE",
-    "nazionale_1": "INGHILTERRA",
-    "nazionale_2": "SCOZIA",
-    "nazionale_3": "QATAR",
-    "nazionale_4": "SENEGAL"
+    "nazionale_1": "GERMANIA",
+    "nazionale_2": "STATI UNITI",
+    "nazionale_3": "SVIZZERA",
+    "nazionale_4": "COREA DEL SUD"
   },
   {
-    "player": "AGOSTINO",
-    "nazionale_1": "PORTOGALLO",
-    "nazionale_2": "SVIZZERA",
+    "player": "LUCA",
+    "nazionale_1": "FRANCIA",
+    "nazionale_2": "CROAZIA",
     "nazionale_3": "TURCHIA",
-    "nazionale_4": "STATI UNITI"
+    "nazionale_4": "EGITTO"
+  },
+  {
+    "player": "ALESSANDRA",
+    "nazionale_1": "NORVEGIA",
+    "nazionale_2": "TURCHIA",
+    "nazionale_3": "SENEGAL",
+    "nazionale_4": "CROAZIA"
+  },
+  {
+    "player": "STEFANO",
+    "nazionale_1": "BRASILE",
+    "nazionale_2": "TURCHIA",
+    "nazionale_3": "SVIZZERA",
+    "nazionale_4": "COREA DEL SUD"
+  },
+  {
+    "player": "STEFANINO",
+    "nazionale_1": "BRASILE",
+    "nazionale_2": "CROAZIA",
+    "nazionale_3": "AUSTRIA",
+    "nazionale_4": "COSTA D'AVORIO"
+  },
+  {
+    "player": "CIRO",
+    "nazionale_1": "PORTOGALLO",
+    "nazionale_2": "MESSICO",
+    "nazionale_3": "SENEGAL",
+    "nazionale_4": "COSTA D'AVORIO"
+  },
+  {
+    "player": "SAVVAS",
+    "nazionale_1": "FRANCIA",
+    "nazionale_2": "OLANDA",
+    "nazionale_3": "IRAN",
+    "nazionale_4": "REPUBBLICA DEMOCRATICA DEL CONGO"
+  },
+  {
+    "player": "GIORGIO",
+    "nazionale_1": "NORVEGIA",
+    "nazionale_2": "TURCHIA",
+    "nazionale_3": "STATI UNITI",
+    "nazionale_4": "AUSTRIA"
   },
   {
     "player": "PAOLA",
-    "nazionale_1": "FRANCIA",
-    "nazionale_2": "CROAZIA",
-    "nazionale_3": "AUSTRIA",
-    "nazionale_4": "STATI UNITI"
-  },
-  {
-    "player": "EZIO",
-    "nazionale_1": "FRANCIA",
-    "nazionale_2": "UZBEKISTAN",
-    "nazionale_3": "SCOZIA",
-    "nazionale_4": "ARABIA SAUDITA"
-  },
-  {
-    "player": "GIULIO",
-    "nazionale_1": "IRAN",
-    "nazionale_2": "CROAZIA",
-    "nazionale_3": "SCOZIA",
-    "nazionale_4": "GIORDANIA"
+    "nazionale_1": "PORTOGALLO",
+    "nazionale_2": "NORVEGIA",
+    "nazionale_3": "AUSTRALIA",
+    "nazionale_4": "COSTA D'AVORIO"
   }
 ]
