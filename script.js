@@ -219,8 +219,8 @@ function toggleDetail(button) {
 
 async function init() {
     const moltiplicatori = await loadMoltiplicatori();
-    //const nazionali = await loadNazionali(moltiplicatori);
-    //await loadTeams(nazionali);
+    const nazionali = await loadNazionali(moltiplicatori);
+    await loadTeams(nazionali);
     loadListone();
 }
 
