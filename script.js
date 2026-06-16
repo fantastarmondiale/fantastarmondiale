@@ -169,20 +169,19 @@ async function loadTeams(nazionali) {
         detailCell.innerHTML = `<div class="detail" style="display: none;">
                                     <table class="detailTable">
                                         ${[team.nazionale_1, team.nazionale_2, team.nazionale_3, team.nazionale_4]
-                                            .map(nazionaleName => {
-                                                let nazionale = nazionali.find(n => n.name === nazionaleName);
-                                                if (nazionale) {
-                                                    return `
-                                                        <tr>
-                                                            <td></td>
-                                                            <td class="detailflag"><img src="${nazionale.flag}" alt="${nazionale.name} flag" class="flag"></td>
-                                                            <td>${nazionale.name}</td>
-                                                            <td class="numeric">${nazionale.score}</td>
-                                                        </tr>`;
-                                                } else {
-                                                    return '';
-                                                }
-                                            }).join('')}
+									    .map(name => nazionali.find(n => n.name === name))
+									    .filter(n => n)
+									    .sort((a, b) => b.score - a.score)
+									    .map(nazionale => {
+									        return `
+									            <tr>
+									                <td></td>
+									                <td class="detailflag"><img src="${nazionale.flag}" alt="${nazionale.name} flag" class="flag"></td>
+									                <td>${nazionale.name}</td>
+									                <td class="numeric">${nazionale.score}</td>
+									            </tr>`;
+									    }).join('')
+									}
                                     </table>
                                 </div>`;
         detailRow.style.display = "none";
