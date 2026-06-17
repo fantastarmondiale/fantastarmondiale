@@ -1,3 +1,5 @@
+const tableState = {};
+
 document.addEventListener('DOMContentLoaded', function() {
     // Seleziona primo Tab
     document.querySelector('.tablink').click();
@@ -216,16 +218,18 @@ function toggleDetail(button) {
     }
 }
 
-let allExpanded = false;
+function toggleAll(tableId, buttonElement) {
+    const table = document.getElementById(tableId);
+    const buttons = table.querySelectorAll('tbody button');
 
-window.toggleAll = function (tableid) {
-    const buttons = document.querySelectorAll('#'+tableid+' tbody button');
+    // Stato specifico della tabella
+    const isExpanded = tableState[tableId] || false;
 
     buttons.forEach(button => {
         let detailRow = button.parentElement.parentElement.nextElementSibling;
         let detailDiv = detailRow.querySelector('.detail');
 
-        if (!allExpanded) {
+        if (!isExpanded) {
             // Espandi
             detailDiv.style.display = "block";
             detailRow.style.display = "table-row";
@@ -238,11 +242,15 @@ window.toggleAll = function (tableid) {
         }
     });
 
-    // Cambia stato + testo bottone
-    allExpanded = !allExpanded;
-    document.getElementById("toggleAllBtn").textContent =
-        allExpanded ? "Chiudi tutto" : "Espandi tutto";
+    // Aggiorna stato di quella tabella
+    tableState[tableId] = !isExpanded;
+
+    // Aggiorna testo del bottone
+    buttonElement.textContent = tableState[tableId]
+        ? "Chiudi tutto"
+        : "Espandi tutto";
 }
+
 
 async function init() {
     const moltiplicatori = await loadMoltiplicatori();
