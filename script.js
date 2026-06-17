@@ -216,32 +216,32 @@ function toggleDetail(button) {
     }
 }
 
-window.expandAll = function () {
-    const buttons = document.querySelectorAll('#teamsTable tbody button');
-    
+let allExpanded = false;
+
+window.toggleAll = function (tableid) {
+    const buttons = document.querySelectorAll('#'+tableid+' tbody button');
+
     buttons.forEach(button => {
         let detailRow = button.parentElement.parentElement.nextElementSibling;
         let detailDiv = detailRow.querySelector('.detail');
 
-        if (detailDiv.style.display === "none") {
+        if (!allExpanded) {
+            // Espandi
             detailDiv.style.display = "block";
             detailRow.style.display = "table-row";
             button.innerHTML = '<img src="reduce_gray.png">';
+        } else {
+            // Chiudi
+            detailDiv.style.display = "none";
+            detailRow.style.display = "none";
+            button.innerHTML = '<img src="expand_gray.png">';
         }
     });
-}
 
-window.collapseAll = function () {
-    const buttons = document.querySelectorAll('#teamsTable tbody button');
-    
-    buttons.forEach(button => {
-        let detailRow = button.parentElement.parentElement.nextElementSibling;
-        let detailDiv = detailRow.querySelector('.detail');
-
-        detailDiv.style.display = "none";
-        detailRow.style.display = "none";
-        button.innerHTML = '<img src="expand_gray.png">';
-    });
+    // Cambia stato + testo bottone
+    allExpanded = !allExpanded;
+    document.getElementById("toggleAllBtn").textContent =
+        allExpanded ? "Chiudi tutto" : "Espandi tutto";
 }
 
 async function init() {
