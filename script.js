@@ -190,6 +190,7 @@ async function loadTeams(nazionali) {
     });
 }
 
+//Apri tab
 function openTab(evt, tabName) {
     var i, tabcontent, tablinks;
     tabcontent = document.getElementsByClassName("tabcontent");
@@ -204,6 +205,7 @@ function openTab(evt, tabName) {
     evt.currentTarget.classList.replace('unselected','selected');
 }
 
+//Apri dettaglio
 function toggleDetail(button) {
     let detailRow = button.parentElement.parentElement.nextElementSibling;
     let detailDiv = detailRow.querySelector('.detail');
@@ -218,6 +220,7 @@ function toggleDetail(button) {
     }
 }
 
+//Espandi/riduci tutti i dettagli
 function toggleAll(tableId, buttonElement) {
     const table = document.getElementById(tableId);
     const buttons = table.querySelectorAll('tbody button');
@@ -251,6 +254,7 @@ function toggleAll(tableId, buttonElement) {
         : "Espandi tutto";
 }
 
+window.toggleAll = toggleAll;
 
 async function init() {
     const moltiplicatori = await loadMoltiplicatori();
