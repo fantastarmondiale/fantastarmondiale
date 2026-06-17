@@ -216,7 +216,7 @@ function toggleDetail(button) {
     }
 }
 
-function expandAll() {
+window.expandAll = function () {
     const buttons = document.querySelectorAll('#teamsTable tbody button');
     
     buttons.forEach(button => {
@@ -231,7 +231,7 @@ function expandAll() {
     });
 }
 
-function collapseAll() {
+window.collapseAll = function () {
     const buttons = document.querySelectorAll('#teamsTable tbody button');
     
     buttons.forEach(button => {
