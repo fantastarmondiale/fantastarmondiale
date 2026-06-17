@@ -216,6 +216,34 @@ function toggleDetail(button) {
     }
 }
 
+function expandAll() {
+    const buttons = document.querySelectorAll('#teamsTable tbody button');
+    
+    buttons.forEach(button => {
+        let detailRow = button.parentElement.parentElement.nextElementSibling;
+        let detailDiv = detailRow.querySelector('.detail');
+
+        if (detailDiv.style.display === "none") {
+            detailDiv.style.display = "block";
+            detailRow.style.display = "table-row";
+            button.innerHTML = '<img src="reduce_gray.png">';
+        }
+    });
+}
+
+function collapseAll() {
+    const buttons = document.querySelectorAll('#teamsTable tbody button');
+    
+    buttons.forEach(button => {
+        let detailRow = button.parentElement.parentElement.nextElementSibling;
+        let detailDiv = detailRow.querySelector('.detail');
+
+        detailDiv.style.display = "none";
+        detailRow.style.display = "none";
+        button.innerHTML = '<img src="expand_gray.png">';
+    });
+}
+
 async function init() {
     const moltiplicatori = await loadMoltiplicatori();
     const nazionali = await loadNazionali(moltiplicatori);
