@@ -179,13 +179,13 @@
     "valore": 30,
     "flag": "icons8-belgio-30.png",
     "details": {
-      "Vince Partita (nei 120 minuti)": 1,
+      "Vince Partita (nei 120 minuti)": 2,
       "Pareggia Partita (nei 120 minuti)": 2,
       "Perde Partita (nei 120 minuti)": 0,
       "Passaggio Girone": 1,
       "Passaggio Girone Come Prima": 1,
       "Non Passa il Girone": 0,
-      "Passa Turno (Dopo Girone)": 0,
+      "Passa Turno (Dopo Girone)": 1,
       "Raggiunge la Semifinale": 0,
       "Raggiunge la Finale": 0,
       "Vince Mondiale": 0,
@@ -198,14 +198,14 @@
       "Perde con 5 Gol di Scarto": 0,
       "Rigore Sbagliato (nei 120 minuti)": 0,
       "Rigore Parato (nei 120 minuti)": 0,
-      "Gol Fatto (nei 120 minuti)": 6,
-      "Gol Subito (nei 120 minuti)": 2,
+      "Gol Fatto (nei 120 minuti)": 9,
+      "Gol Subito (nei 120 minuti)": 4,
       "Espulsione Giocatore": 1,
       "Espulsione Allenatore": 0,
       "Inno Sbagliato": 0,
-      "Invasione di Campo": 0,
+      "Invasione di Campo": 1,
       "Invasione di Campo Nudo": 0,
-      "Rimonta Fatta e Vince (nei 120 minuti)": 0,
+      "Rimonta Fatta e Vince (nei 120 minuti)": 1,
       "Rimonta Subita e Perde (nei 120 minuti)": 0
     }
   },
@@ -1336,7 +1336,7 @@
     "details": {
       "Vince Partita (nei 120 minuti)": 1,
       "Pareggia Partita (nei 120 minuti)": 0,
-      "Perde Partita (nei 120 minuti)": 2,
+      "Perde Partita (nei 120 minuti)": 3,
       "Passaggio Girone": 1,
       "Passaggio Girone Come Prima": 0,
       "Non Passa il Girone": 0,
@@ -1353,15 +1353,15 @@
       "Perde con 5 Gol di Scarto": 0,
       "Rigore Sbagliato (nei 120 minuti)": 0,
       "Rigore Parato (nei 120 minuti)": 0,
-      "Gol Fatto (nei 120 minuti)": 8,
-      "Gol Subito (nei 120 minuti)": 6,
+      "Gol Fatto (nei 120 minuti)": 10,
+      "Gol Subito (nei 120 minuti)": 9,
       "Espulsione Giocatore": 0,
       "Espulsione Allenatore": 0,
       "Inno Sbagliato": 0,
-      "Invasione di Campo": 0,
+      "Invasione di Campo": 1,
       "Invasione di Campo Nudo": 0,
       "Rimonta Fatta e Vince (nei 120 minuti)": 0,
-      "Rimonta Subita e Perde (nei 120 minuti)": 0
+      "Rimonta Subita e Perde (nei 120 minuti)": 1
     }
   },
   {
